@@ -2,7 +2,7 @@
 
 **Executive Summary:**
 
-The Hintag Power BI Analytics project leverages Power BI to transform raw Excel data into actionable insights across customer data, general performance metrics, service desk activities, ticket analysis, customer management, project tracking, and monthly business growth (MBG). This phased approach empowers data-driven decision-making for various stakeholders, including business analysts, project managers, executives, and department heads. By visualizing key metrics and trends, the project aims to enhance customer satisfaction, optimize service desk operations, improve project management, and drive business growth.
+The Hintag Power BI Analytics project leverages Power BI to transform raw data into actionable insights across customer data, general performance metrics, service desk activities, ticket analysis, customer management, project tracking, and monthly business growth (MBG). This phased approach empowers data-driven decision-making for various stakeholders, including business analysts, project managers, executives, and department heads. By visualizing key metrics and trends, the project aims to enhance customer satisfaction, optimize service desk operations, improve project management, and drive business growth.
 
 **Business Problem:**
 
