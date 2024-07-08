@@ -32,3 +32,6 @@ Optimized service desk operations: Streamlined ticket resolution processes and r
 Effective project management: Tracked project progress, identified bottlenecks, and made informed adjustments.
 Data-driven growth strategies: Analyzed MBG metrics to identify growth opportunities and areas for improvement.
 The Hintag Power BI Analytics project successfully addressed the challenges of data fragmentation and enabled a data-driven culture within the organization. By continuously updating and expanding the Power BI reports, Hintag can further refine its business strategies and achieve sustainable growth.
+
+![Sales 1](https://github.com/goyalvibhor/Hintag-Power-BI-Analytics/assets/26221016/e4c7b6f9-272f-452f-a78a-f06c69d8029b)
+
